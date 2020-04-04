@@ -1,6 +1,6 @@
 FROM debian:9.8-slim
 
-LABEL "version"="1.0.3"
+LABEL "version"="1.0.4"
 LABEL "repository"="https://github.com/AcrylicShrimp/webhook-action"
 LABEL "homepage"="https://github.com/AcrylicShrimp/webhook-action"
 LABEL "maintainer"="AcrylicShrimp <phyenjun@gmail.com>"
